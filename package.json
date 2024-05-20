@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Your ultimate tool for customizing and enhancing your MP3 files.",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon server.js"
   },
